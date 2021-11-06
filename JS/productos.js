@@ -12,7 +12,7 @@ const productos = [
     {
         id: 2,
         nombre: 'APA',
-        imagen: 'theWayBrew/media/apa.jpg',
+        imagen: 'media/apa.jpg',
         color: 'Amarillo',
         ibus: '45',
         alcohol: '4',
