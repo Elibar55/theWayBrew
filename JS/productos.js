@@ -2,7 +2,7 @@ const productos = [
     {
       id: 1,
       nombre: 'IPA',
-      imagen: '/media/ipa.jpg',
+      imagen: 'media/ipa.jpg',
       color: 'Amarillo',
       ibus: '80',
       alcohol: '7',
@@ -12,7 +12,7 @@ const productos = [
     {
         id: 2,
         nombre: 'APA',
-        imagen: '/media/apa.jpg',
+        imagen: 'media/apa.jpg',
         color: 'Amarillo',
         ibus: '45',
         alcohol: '4',
@@ -22,7 +22,7 @@ const productos = [
     {
         id: 3,
         nombre: 'NEIPA',
-        imagen: '/media/neipa.jpg',
+        imagen: 'media/neipa.jpg',
         color: 'Mostaza',
         ibus: '86',
         alcohol: '9',
@@ -32,7 +32,7 @@ const productos = [
     {
         id: 4,
         nombre: 'STOUT',
-        imagen: '/media/stout.jpg',
+        imagen: 'media/stout.jpg',
         color: 'Negro',
         ibus: '35',
         alcohol: '6',
