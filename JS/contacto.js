@@ -21,7 +21,7 @@ formContacto.addEventListener("submit", function(e){
     }
     
     if(emailContacto.value != null){
-        mensajesSuccess.push ('Mensaje enviado,')
+        mensajesSuccess.push ('Mensaje enviado')
     if(textoContacto.value != null){
         mensajesSuccess.push (' nos comunicaremos a la brevedad!')
     }
